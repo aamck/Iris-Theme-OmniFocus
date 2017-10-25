@@ -572,6 +572,15 @@
 				<real>0.3803921569</real>
 			</dict>
 		</dict>
+		<key>ExpectationsBarBackgroundColor</key>
+		<dict>
+		</dict>
+		<key>ExpectationsBarBorderColor</key>
+		<dict>
+		</dict>
+		<key>ExpectationsBarInactiveBackgroundColor</key>
+		<dict>
+		</dict>
 		<key>FocusExpectationsBarBottomColor</key>
 		<dict>
 			<key>a</key>
